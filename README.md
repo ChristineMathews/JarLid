@@ -32,11 +32,11 @@ Run the following command to train the model:
 ## 📷 Running Inference on New Images
 ```bash
 !python yolov7/detect.py --weights yolov7/runs/train/exp/weights/best.pt \
-  --source new.jpg --img-size 640 --conf-thres 0.25
+  --source new.jpg --img-size 640 --conf-thres 0.5
 ```
 ### 🖼️ Demonstration
 #### Input Image:
-![Input](new.jpg)
+![Input](new.jpeg)
 #### Output Detection:
 ![Output](testout.jpg)
 
