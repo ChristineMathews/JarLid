@@ -41,7 +41,6 @@ Run the following command to train the model:
 ![Output](testout.jpg)
 
 ## 🔍 Evaluation
-- **mAP@0.5**: Measures detection accuracy.
 - **Precision & Recall**: Indicates model performance on defect detection.
 
 ## 🎯 Conclusion
@@ -49,8 +48,3 @@ This project demonstrates how YOLOv7 can be used for **automated defect detectio
 
 ## 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit a pull request.
-
-## 📬 Contact
-For any questions, reach out to **your.email@example.com**.
-
-Happy Coding! 🚀
